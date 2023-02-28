@@ -16,10 +16,6 @@ p{
   text-transform: uppercase;
 }
 
-a{
-    text-decoration: none;
-    color: rgba(255, 255, 255, 0.8);
-}
 
 .line{
     display: flex;
